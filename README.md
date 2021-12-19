@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Launguages 🤖 Python , html , c++**
 
-- 🧖 Looking For Beautifull Girl [Mission Girl ( Possible + Whatsapp )](https://wa.me/+923079321417)
+- 🧖 Looking For Beautifull Girl [Mission Girl ( Possible + Whatsapp )](https://wa.me/)
 
 - 🕷️ Intrested In ! [Facebook](https://facebook.com)
 
