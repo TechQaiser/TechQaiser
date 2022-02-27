@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Launguages 🤖 Python , html , c++**
 
-- 🧖 Looking For Beautifull Girl [Mission Girl ( Possible + Whatsapp )](https://wa.me/)
+- 🧖 Looking For Beautifull Girl
 
 - 🕷️ Intrested In ! [Facebook](https://facebook.com)
 
@@ -15,7 +15,7 @@
 
 - 📝 My Projects At [https://github.com/TechQaiser](https://github.com/TechQaiser)
 
-- 💬 Donate Me A Coffe **https://wa.me/+923079321417?text=I'M DONNATING YOU COFFE , SIR AHSAN 🥰**
+
 
 - 📨 How To Contact Me **techqaiser1@gmail.com**
 
