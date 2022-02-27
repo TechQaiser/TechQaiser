@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tech Qaiser</h1>
-<h3 align="center">I can't Trust Humans 🙃 . I Trust In Coding Because They Never Be Wrondg 😊🌞</h3>
+<h3 align="center">I can't Trust Humans 🙃 . I Trust In Coding Because They Never Be Wronge😊🌞</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techqaiser" alt="techqaiser" /></a> </p>
 
