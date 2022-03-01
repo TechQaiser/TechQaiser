@@ -35,4 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/TechQaiser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TechQaiser" /></a></p><br><br>
 
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/TechQaiser/count.svg" />
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techqaiser&show_icons=true&locale=en&layout=compact" alt="techqaiser" /></p>
