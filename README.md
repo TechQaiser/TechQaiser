@@ -17,7 +17,7 @@
 
 
 
-- 📨 How To Contact Me **techqaiser1@gmail.com**
+- 📨 How To Contact Me **bigbhaiok@gmail.com**
 
 - 📄 Where Are From 🤐 [https://Pakistan.com](https://Pakistan.com)
 
