@@ -1,2 +1,1 @@
-money$money--on
-a
+money$money
